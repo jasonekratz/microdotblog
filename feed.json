@@ -1,0 +1,169 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "JEK",
+	"icon": "https://micro.blog/jasonekratz/avatar.jpg",
+	"home_page_url": "https://micro.jasonkratz.me/",
+	"feed_url": "https://micro.jasonkratz.me/feed.json",
+	"items": [
+		
+			{
+				"id": "http://jeknotes.micro.blog/2025/07/09/added-the-github-backup-option/",
+				
+				"content_html": "<p>Added the GitHub &ldquo;backup&rdquo; option because why not?</p>\n",
+				"content_text": "Added the GitHub \"backup\" option because why not?\n",
+				"date_published": "2025-07-09T10:11:26-05:00",
+				"url": "https://micro.jasonkratz.me/2025/07/09/added-the-github-backup-option/"
+			},
+			{
+				"id": "http://jeknotes.micro.blog/2025/07/07/really-trying-hard-to-remove/",
+				
+				"content_html": "<p>Really trying hard to remove myself from the echo chamber I keep finding myself in online. micro.blog needs another Jean or needs an automated Discover feed. The one as it exists is not a feature to sell the platform when it is hardly updated.</p>\n",
+				"content_text": "Really trying hard to remove myself from the echo chamber I keep finding myself in online. micro.blog needs another Jean or needs an automated Discover feed. The one as it exists is not a feature to sell the platform when it is hardly updated.\n",
+				"date_published": "2025-07-07T11:46:32-05:00",
+				"url": "https://micro.jasonkratz.me/2025/07/07/really-trying-hard-to-remove/"
+			},
+			{
+				"id": "http://jeknotes.micro.blog/2025/07/06/ok-did-not-expect-to/",
+				
+				"content_html": "<p>OK did not expect to see ABC showing &ldquo;The Princess Bride&rdquo; in primetime on a Sunday night. That was&hellip;weird.</p>\n",
+				"content_text": "OK did not expect to see ABC showing \"The Princess Bride\" in primetime on a Sunday night. That was...weird.\n",
+				"date_published": "2025-07-06T22:01:40-05:00",
+				"url": "https://micro.jasonkratz.me/2025/07/06/ok-did-not-expect-to/"
+			},
+			{
+				"id": "http://jeknotes.micro.blog/2025/07/06/changed-my-username-back-to/",
+				
+				"content_html": "<p>Changed my username back to what it was before I left for a day/came back. Sorry for the confusion this always causes folks. I really am trying to get better 😆</p>\n",
+				"content_text": "Changed my username back to what it was before I left for a day/came back. Sorry for the confusion this always causes folks. I really am trying to get better 😆\n",
+				"date_published": "2025-07-06T07:17:07-05:00",
+				"url": "https://micro.jasonkratz.me/2025/07/06/changed-my-username-back-to/"
+			},
+			{
+				"id": "http://jeknotes.micro.blog/2025/07/05/took-my-kids-to-nandos/",
+				
+				"content_html": "<p>Took my kids to Nando&rsquo;s tonight to celebrate my daughter taking round one of the CPA exam.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Took my kids to Nando's tonight to celebrate my daughter taking round one of the CPA exam.\n\n<img src=\"uploads/2025/30dd5108-fe53-4462-a9eb-d1918645a18b.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-07-05T21:52:33-05:00",
+				"url": "https://micro.jasonkratz.me/2025/07/05/took-my-kids-to-nandos/",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jeknotes.micro.blog/2025/07/05/heys-handling-of-contacts-really/",
+				
+				"content_html": "<p>HEY&rsquo;s handling of contacts really is bad. If you use any service (like craigslist) that generates random addresses all of that shit starts to clog up your contact list. And since there is no way to bulk delete contacts&hellip;.   yeah its a freaking mess.</p>\n",
+				"content_text": "HEY's handling of contacts really is bad. If you use any service (like craigslist) that generates random addresses all of that shit starts to clog up your contact list. And since there is no way to bulk delete contacts....   yeah its a freaking mess.\n",
+				"date_published": "2025-07-05T16:11:49-05:00",
+				"url": "https://micro.jasonkratz.me/2025/07/05/heys-handling-of-contacts-really/"
+			},
+			{
+				"id": "http://jeknotes.micro.blog/2025/07/05/ok-well-this-is-something/",
+				
+				"content_html": "<p>OK well this is something I hadn’t heard before: “Ces Bottes Sont Faites Pour Marcher” by Eileen. “These Boots Were Made for Walking”…in French. 1966.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/237103/2025/image-20250705-120030-c2e7ea0b.jpg\" alt=\"\"></p>\n",
+				"content_text": "OK well this is something I hadn’t heard before: “Ces Bottes Sont Faites Pour Marcher” by Eileen. “These Boots Were Made for Walking”…in French. 1966.\n\n![](https://cdn.uploads.micro.blog/237103/2025/image-20250705-120030-c2e7ea0b.jpg)\n",
+				"date_published": "2025-07-05T12:00:32-05:00",
+				"url": "https://micro.jasonkratz.me/2025/07/05/ok-well-this-is-something/",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jeknotes.micro.blog/2025/07/04/another-th-of-july-tradition/",
+				
+				"content_html": "<p>Another 4th of July tradition - the humble funnel cake.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Another 4th of July tradition - the humble funnel cake.\n\n\n\n<img src=\"uploads/2025/idg-20250704-150741-995-vsco.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-07-04T15:12:38-05:00",
+				"url": "https://micro.jasonkratz.me/2025/07/04/another-th-of-july-tradition/",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jeknotes.micro.blog/2025/07/04/celebrating-the-th-with-that/",
+				
+				"content_html": "<p>Celebrating the 4th with that most-American of pastimes - the Nathan&rsquo;s Hot Dog Eating Contest. Didn&rsquo;t watch last year because Joey Chestnut wasn&rsquo;t there. He&rsquo;s back this year and so am I 😆 🌭 🇺🇸</p>\n",
+				"content_text": "Celebrating the 4th with that most-American of pastimes - the Nathan's Hot Dog Eating Contest. Didn't watch last year because Joey Chestnut wasn't there. He's back this year and so am I 😆 🌭 🇺🇸\n",
+				"date_published": "2025-07-04T11:27:55-05:00",
+				"url": "https://micro.jasonkratz.me/2025/07/04/celebrating-the-th-with-that/"
+			},
+			{
+				"id": "http://jeknotes.micro.blog/2025/07/03/just-putting-this-out-there/",
+				
+				"content_html": "<p>Just putting this out there: the &ldquo;Cocktail Hour&rdquo; channel on Sonos is fantastic. 🎵</p>\n",
+				"content_text": "Just putting this out there: the \"Cocktail Hour\" channel on Sonos is fantastic. 🎵\n",
+				"date_published": "2025-07-03T11:17:31-05:00",
+				"url": "https://micro.jasonkratz.me/2025/07/03/just-putting-this-out-there/"
+			},
+			{
+				"id": "http://jeknotes.micro.blog/2025/07/03/ghost-added-the-ability-in/",
+				
+				"content_html": "<p>Ghost added the ability in the newest release (5.129.0) to upload HEIC files and it auto-converts them to JPG. Seems like a pretty major deal for Mac/iOS users but it&rsquo;s not listed as one of the major changes in their release notes 🧐</p>\n",
+				"content_text": "Ghost added the ability in the newest release (5.129.0) to upload HEIC files and it auto-converts them to JPG. Seems like a pretty major deal for Mac/iOS users but it's not listed as one of the major changes in their release notes 🧐\n",
+				"date_published": "2025-07-03T10:30:10-05:00",
+				"url": "https://micro.jasonkratz.me/2025/07/03/ghost-added-the-ability-in/"
+			},
+			{
+				"id": "http://jeknotes.micro.blog/2025/07/02/the-nfl-preseason-cant-come/",
+				
+				"content_html": "<p>The NFL preseason can&rsquo;t come soon enough.</p>\n",
+				"content_text": "The NFL preseason can't come soon enough.\n",
+				"date_published": "2025-07-02T17:46:44-05:00",
+				"url": "https://micro.jasonkratz.me/2025/07/02/the-nfl-preseason-cant-come/"
+			},
+			{
+				"id": "http://jeknotes.micro.blog/2025/07/02/the-craft-team-says-search/",
+				
+				"content_html": "<p>The Craft team says &ldquo;Search just got smarter. We&rsquo;ve laid the groundwork for a stronger, faster, and better search experience.&rdquo; What exactly does that mean? Smarter how? Its shocking to me that PKM-type tools (or email providers) can provide poor search capability.</p>\n",
+				"content_text": "The Craft team says \"Search just got smarter. We've laid the groundwork for a stronger, faster, and better search experience.\" What exactly does that mean? Smarter how? Its shocking to me that PKM-type tools (or email providers) can provide poor search capability.\n",
+				"date_published": "2025-07-02T17:15:14-05:00",
+				"url": "https://micro.jasonkratz.me/2025/07/02/the-craft-team-says-search/"
+			},
+			{
+				"id": "http://jeknotes.micro.blog/2025/07/02/sending-out-some-long-overdue/",
+				
+				"content_html": "<p>Sending out some long overdue apologies. Life is too damned short.</p>\n",
+				"content_text": "Sending out some long overdue apologies. Life is too damned short.\n",
+				"date_published": "2025-07-02T17:12:42-05:00",
+				"url": "https://micro.jasonkratz.me/2025/07/02/sending-out-some-long-overdue/"
+			},
+			{
+				"id": "http://jeknotes.micro.blog/2025/07/02/against-my-better-judgement-i/",
+				
+				"content_html": "<p>Against my better judgement I have reenabled my Fediverse account here on micro.blog.</p>\n",
+				"content_text": "Against my better judgement I have reenabled my Fediverse account here on micro.blog.\n",
+				"date_published": "2025-07-02T16:49:54-05:00",
+				"url": "https://micro.jasonkratz.me/2025/07/02/against-my-better-judgement-i/"
+			},
+			{
+				"id": "http://jeknotes.micro.blog/2025/07/01/the-swamp-milkweed-and-butterfly/",
+				
+				"content_html": "<p>The swamp milkweed and butterfly weed apparently doing its job.</p>\n<p><img src=\"https://jeknotes.micro.blog/uploads/2025/image-20250701-130313-d895ed0b.jpg\" alt=\"\"></p>\n",
+				"content_text": "The swamp milkweed and butterfly weed apparently doing its job. \n\n\n![](https://jeknotes.micro.blog/uploads/2025/image-20250701-130313-d895ed0b.jpg)\n",
+				"date_published": "2025-07-01T13:03:17-05:00",
+				"url": "https://micro.jasonkratz.me/2025/07/01/the-swamp-milkweed-and-butterfly/",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jeknotes.micro.blog/2025/06/30/the-echinacea-in-the-yard/",
+				
+				"content_html": "<p>The Echinacea in the yard is looking good!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The Echinacea in the yard is looking good!\n\n<img src=\"uploads/2025/idg-20250630-203604-639.jpeg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2025-06-30T22:14:09-05:00",
+				"url": "https://micro.jasonkratz.me/2025/06/30/the-echinacea-in-the-yard/",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jeknotes.micro.blog/2025/06/30/was-messing-with-project-indigo/",
+				
+				"content_html": "<p>Was messing with Project Indigo out on a walk. This pic looks like there is vignetting going on which is odd.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Was messing with Project Indigo out on a walk. This pic looks like there is vignetting going on which is odd.\n\n<img src=\"uploads/2025/idg-20250630-202942-570.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-06-30T22:12:41-05:00",
+				"url": "https://micro.jasonkratz.me/2025/06/30/was-messing-with-project-indigo/",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jeknotes.micro.blog/2025/06/30/years-ago-today-my-wife/",
+				
+				"content_html": "<p>11 years ago today my wife and I, on our trip to Watkins Glen NY, stopped by Watkins Glen State Park. Really, really beautiful park. Get there early as the tiny parking lot fills up fast!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "11 years ago today my wife and I, on our trip to Watkins Glen NY, stopped by Watkins Glen State Park. Really, really beautiful park. Get there early as the tiny parking lot fills up fast!\n\n<img src=\"uploads/2025/20140630-433.jpeg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-06-30T15:53:12-05:00",
+				"url": "https://micro.jasonkratz.me/2025/06/30/years-ago-today-my-wife/",
+				"tags": ["Photos"]
+			}
+	]
+}
