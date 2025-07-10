@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jeknotes.micro.blog/2025/07/10/have-been-using-vivaldi-a/",
+				
+				"content_html": "<p>Have been using Vivaldi a bit and discovered a really nice feature: if you use the bookmarks bar you can click on a folder there and add the active tab as a bookmark. Nice shortcut!</p>\n",
+				"content_text": "Have been using Vivaldi a bit and discovered a really nice feature: if you use the bookmarks bar you can click on a folder there and add the active tab as a bookmark. Nice shortcut!\n",
+				"date_published": "2025-07-10T10:23:38-05:00",
+				"url": "https://micro.jasonkratz.me/2025/07/10/have-been-using-vivaldi-a/"
+			},
+			{
+				"id": "http://jeknotes.micro.blog/2025/07/09/also-turned-on-the-save/",
+				
+				"content_html": "<p>Also turned on the save to Internet Archive feature because again&hellip;why not?</p>\n",
+				"content_text": "Also turned on the save to Internet Archive feature because again...why not?\n",
+				"date_published": "2025-07-09T10:17:21-05:00",
+				"url": "https://micro.jasonkratz.me/2025/07/09/also-turned-on-the-save/"
+			},
+			{
 				"id": "http://jeknotes.micro.blog/2025/07/09/added-the-github-backup-option/",
 				
 				"content_html": "<p>Added the GitHub &ldquo;backup&rdquo; option because why not?</p>\n",
@@ -42,7 +58,7 @@
 				"id": "http://jeknotes.micro.blog/2025/07/05/took-my-kids-to-nandos/",
 				
 				"content_html": "<p>Took my kids to Nando&rsquo;s tonight to celebrate my daughter taking round one of the CPA exam.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Took my kids to Nando's tonight to celebrate my daughter taking round one of the CPA exam.\n\n<img src=\"uploads/2025/30dd5108-fe53-4462-a9eb-d1918645a18b.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Took my kids to Nando's tonight to celebrate my daughter taking round one of the CPA exam.\n\n<img src=\"https://cdn.uploads.micro.blog/237103/2025/30dd5108-fe53-4462-a9eb-d1918645a18b.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-07-05T21:52:33-05:00",
 				"url": "https://micro.jasonkratz.me/2025/07/05/took-my-kids-to-nandos/",
 				"tags": ["Photos"]
@@ -61,17 +77,15 @@
 				"content_html": "<p>OK well this is something I hadn’t heard before: “Ces Bottes Sont Faites Pour Marcher” by Eileen. “These Boots Were Made for Walking”…in French. 1966.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/237103/2025/image-20250705-120030-c2e7ea0b.jpg\" alt=\"\"></p>\n",
 				"content_text": "OK well this is something I hadn’t heard before: “Ces Bottes Sont Faites Pour Marcher” by Eileen. “These Boots Were Made for Walking”…in French. 1966.\n\n![](https://cdn.uploads.micro.blog/237103/2025/image-20250705-120030-c2e7ea0b.jpg)\n",
 				"date_published": "2025-07-05T12:00:32-05:00",
-				"url": "https://micro.jasonkratz.me/2025/07/05/ok-well-this-is-something/",
-				"tags": ["Photos"]
+				"url": "https://micro.jasonkratz.me/2025/07/05/ok-well-this-is-something/"
 			},
 			{
 				"id": "http://jeknotes.micro.blog/2025/07/04/another-th-of-july-tradition/",
 				
 				"content_html": "<p>Another 4th of July tradition - the humble funnel cake.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Another 4th of July tradition - the humble funnel cake.\n\n\n\n<img src=\"uploads/2025/idg-20250704-150741-995-vsco.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Another 4th of July tradition - the humble funnel cake.\r\n\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/237103/2025/idg-20250704-150741-995-vsco.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-07-04T15:12:38-05:00",
-				"url": "https://micro.jasonkratz.me/2025/07/04/another-th-of-july-tradition/",
-				"tags": ["Photos"]
+				"url": "https://micro.jasonkratz.me/2025/07/04/another-th-of-july-tradition/"
 			},
 			{
 				"id": "http://jeknotes.micro.blog/2025/07/04/celebrating-the-th-with-that/",
@@ -139,6 +153,14 @@
 				"tags": ["Photos"]
 			},
 			{
+				"id": "http://jeknotes.micro.blog/2025/07/01/apparently-im-running-a-bathhouse/",
+				
+				"content_html": "<p>Apparently I’m running a bathhouse now.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Apparently I’m running a bathhouse now.\n\n<p><video controls=\"controls\" playsinline=\"playsinline\" src=\"https://jeknotes.micro.blog/uploads/2025/video-20250701-130143-34fce0f8.mp4\" width=\"1920\" height=\"1080\" poster=\"https://jeknotes.micro.blog/uploads/2025/image-20250701-130200-238dd957.jpg\" preload=\"none\"></video></p>\n",
+				"date_published": "2025-07-01T13:02:02-05:00",
+				"url": "https://micro.jasonkratz.me/2025/07/01/apparently-im-running-a-bathhouse/"
+			},
+			{
 				"id": "http://jeknotes.micro.blog/2025/06/30/the-echinacea-in-the-yard/",
 				
 				"content_html": "<p>The Echinacea in the yard is looking good!</p>\n<!-- raw HTML omitted -->\n",
@@ -164,6 +186,14 @@
 				"date_published": "2025-06-30T15:53:12-05:00",
 				"url": "https://micro.jasonkratz.me/2025/06/30/years-ago-today-my-wife/",
 				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jeknotes.micro.blog/2025/06/30/for-those-wondering-yes-its/",
+				
+				"content_html": "<p>For those wondering, yes it&rsquo;s me. Trying to clean house a bit. I&rsquo;ve been seeing a lot of rats around as of late so figured maybe getting into a new house would help. Same neighborhood of course but sometimes a change of scenery is just what the doc ordered.</p>\n",
+				"content_text": "For those wondering, yes it's me. Trying to clean house a bit. I've been seeing a lot of rats around as of late so figured maybe getting into a new house would help. Same neighborhood of course but sometimes a change of scenery is just what the doc ordered.\n",
+				"date_published": "2025-06-30T15:37:40-05:00",
+				"url": "https://micro.jasonkratz.me/2025/06/30/for-those-wondering-yes-its/"
 			}
 	]
 }
