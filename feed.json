@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jeknotes.micro.blog/2025/07/12/i-really-hate-the-lure/",
+				
+				"content_html": "<p>I really hate the lure of the &ldquo;grandfathered subscription&rdquo;.</p>\n",
+				"content_text": "I really hate the lure of the \"grandfathered subscription\".\n",
+				"date_published": "2025-07-12T11:07:33-05:00",
+				"url": "https://micro.jasonkratz.me/2025/07/12/i-really-hate-the-lure/"
+			},
+			{
+				"id": "http://jeknotes.micro.blog/2025/07/10/its-awesome-that-will-reeve/",
+				
+				"content_html": "<p>It&rsquo;s awesome that Will Reeve has a cameo in the new Superman movie.</p>\n",
+				"content_text": "It's awesome that Will Reeve has a cameo in the new Superman movie.\n",
+				"date_published": "2025-07-10T17:33:01-05:00",
+				"url": "https://micro.jasonkratz.me/2025/07/10/its-awesome-that-will-reeve/"
+			},
+			{
 				"id": "http://jeknotes.micro.blog/2025/07/10/have-been-using-vivaldi-a/",
 				
 				"content_html": "<p>Have been using Vivaldi a bit and discovered a really nice feature: if you use the bookmarks bar you can click on a folder there and add the active tab as a bookmark. Nice shortcut!</p>\n",
@@ -164,7 +180,7 @@
 				"id": "http://jeknotes.micro.blog/2025/06/30/the-echinacea-in-the-yard/",
 				
 				"content_html": "<p>The Echinacea in the yard is looking good!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Echinacea in the yard is looking good!\n\n<img src=\"uploads/2025/idg-20250630-203604-639.jpeg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "The Echinacea in the yard is looking good!\n\n<img src=\"https://jeknotes.micro.blog/uploads/2025/idg-20250630-203604-639.jpeg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2025-06-30T22:14:09-05:00",
 				"url": "https://micro.jasonkratz.me/2025/06/30/the-echinacea-in-the-yard/",
 				"tags": ["Photos"]
@@ -173,7 +189,7 @@
 				"id": "http://jeknotes.micro.blog/2025/06/30/was-messing-with-project-indigo/",
 				
 				"content_html": "<p>Was messing with Project Indigo out on a walk. This pic looks like there is vignetting going on which is odd.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Was messing with Project Indigo out on a walk. This pic looks like there is vignetting going on which is odd.\n\n<img src=\"uploads/2025/idg-20250630-202942-570.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Was messing with Project Indigo out on a walk. This pic looks like there is vignetting going on which is odd.\n\n<img src=\"https://jeknotes.micro.blog/uploads/2025/idg-20250630-202942-570.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-06-30T22:12:41-05:00",
 				"url": "https://micro.jasonkratz.me/2025/06/30/was-messing-with-project-indigo/",
 				"tags": ["Photos"]
